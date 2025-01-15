@@ -1,4 +1,4 @@
-# Polytech-Works
+# Polytech-Machine-Learning-Works
 Ensemble of machine learning projects from Polytech.
 
 Projects:
